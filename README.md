@@ -45,3 +45,8 @@ Este proyecto implementa una aplicación de escritorio en *Java Swing* que consu
 3. Ejecuta PokeApiGUI.main() o Main.java (si configurado para lanzar la GUI).
 4. ¡Disfruta la batalla!
 
+### Colaboradores
+1. Eliam Antonio Avyla 2266372
+2. Andres Esteban Lopez 2266055
+
+
